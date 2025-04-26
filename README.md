@@ -19,7 +19,7 @@ Each solution links directly to the original LeetCode problem and to the corresp
 
 | # | Title | Solution | Difficulty |
 |:-:|:------|:---------|:-----------|
-| 1 | [995. Minimum Number of K Consecutive Bit Flips]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/?envType=daily-question&envId=2024-06-24)) | [Solution](./solutions/0001-two-sum.cpp) | Hard |
+| 1 | [995. Minimum Number of K Consecutive Bit Flips]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/?envType=daily-question&envId=2024-06-24)) | [Solution]([./solutions/0001-two-sum.cpp](https://github.com/marwan-nabil-embedded/leetcode_problems/blob/main/Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.cpp)) | Hard |
 
 
 
